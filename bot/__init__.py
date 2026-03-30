@@ -1,0 +1,1 @@
+"""Trading Boss — bot package."""
