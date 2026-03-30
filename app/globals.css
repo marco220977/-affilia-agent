@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0a0f1e;
+  --card: #111827;
+  --border: #1f2937;
+}
+
+body {
+  background-color: var(--background);
+  color: #f3f4f6;
+  font-family: 'Inter', system-ui, sans-serif;
+}
